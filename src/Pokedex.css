@@ -1,0 +1,9 @@
+.Pokedex
+{
+    display: flex;
+    flex: 1;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

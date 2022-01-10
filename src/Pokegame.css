@@ -1,0 +1,30 @@
+.Pokegame
+{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.Pokegame-hand1
+{
+    border: 2px solid green;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.Pokegame-hand2
+{
+    border: 2px solid red;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.Pokegame-winner
+{
+    color: blue;
+}
+
+.Pokegame-loser
+{
+    color: gray;
+}

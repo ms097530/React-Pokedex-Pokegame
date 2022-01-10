@@ -1,0 +1,22 @@
+.Pokecard
+{
+    display: flex;
+    flex-direction: column;
+    max-height: 500px;
+    background-color: lightgray;
+    min-width: 250px;
+    border-radius: 10%;
+}
+
+.Pokecard-img
+{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.Pokecard-name
+{
+    color: blue;
+    font-weight: bold;
+}
